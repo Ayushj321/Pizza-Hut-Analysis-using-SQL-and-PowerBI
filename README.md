@@ -16,7 +16,6 @@ This project aims to perform a comprehensive sales analysis of Pizza Hut's busin
 - [Screenshots](#screenshots)
 - [Conclusion](#conclusion)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Tech Stack
 
@@ -74,7 +73,7 @@ The data processed using SQL was imported into **Power BI**, where interactive d
 3. **Revenue**: Total pizzas sold by each specefic pizza category
 4. **Slicers**: pizza category slicer to understand sales by choosing particular category(s), and date slicer to see sales of particular time like a particular month or quarter.
 
-And The Power BI dashboard's Best/Worst Seller Dashboard has following features -  
+And The Power BI dashboard's Best/Worst Seller Page has following features -  
 
 1. **Top 5 Pizzas**: By Revenue , By Quantity Sold, and By Total Orders.
 2. **Bottom 5 Pizzas**: By Revenue , By Quantity Sold, and By Total Orders.
@@ -112,11 +111,11 @@ To run this project, you'll need the following:
 
 ## Screenshots
 
-![Power BI Dashboard](https://path-to-image/screenshot-dashboard.png)
+![Power BI Dashboard](Project Images/Screenshot 2025-01-06 170136.png)
 *Power BI Dashboard showing sales trends*
 
-![SQL Query Results](https://path-to-image/screenshot-sql.png)
-*SQL Query results displaying top-performing stores*
+![Power BI dashboard](Project Images/Screenshot 2025-01-06 170304.png)
+*Power BI dashboard shwoing Best/ Worst Selling Pizzas*
 
 ## Conclusion
 
