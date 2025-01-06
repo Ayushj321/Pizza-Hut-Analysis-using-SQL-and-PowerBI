@@ -111,11 +111,11 @@ To run this project, you'll need the following:
 
 ## Screenshots
 
-![Power BI Dashboard](https://github.com/Ayushj321/Pizza-Hut-Analysis-using-SQL-and-PowerBI/Project-Images/Screenshot-2025-01-06-170136.png)
+![Power BI Dashboard](https://github.com/Ayushj321/Pizza-Hut-Analysis-using-SQL-and-PowerBI/blob/6619e471221e240652905dac1e609803b3e6e76e/Project%20Images/Screenshot%202025-01-06%20170136.png)
 *Power BI Dashboard showing sales trends*
 
 
-![Power BI dashboard](https://github.com/Ayushj321/Pizza-Hut-Analysis-using-SQL-and-PowerBI/Project-Images/Screenshot-2025-01-06-170304.png)
+![Power BI dashboard](https://github.com/Ayushj321/Pizza-Hut-Analysis-using-SQL-and-PowerBI/blob/6619e471221e240652905dac1e609803b3e6e76e/Project%20Images/Screenshot%202025-01-06%20170304.png)
 *Power BI dashboard shwoing Best/ Worst Selling Pizzas*
 
 ## Conclusion
