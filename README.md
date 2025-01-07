@@ -27,14 +27,15 @@ This project aims to perform a comprehensive sales analysis of Pizza Hut's busin
 
 The dataset for this project is a simulated or anonymized sales dataset from Pizza Hut. The dataset includes transactional data, which includes:
 
-- **Sales Date**: Date of the transaction.
-- **Product ID**: Identifies the products sold.
-- **Store ID**: Store location where the sale occurred.
-- **Total Sale**: Amount of the sale.
-- **Quantity Sold**: Number of units sold in each transaction.
-- **Customer ID**: An identifier for the customer making the purchase (if applicable).
+- **order_Date**: Date of the transaction.
+- **pizza_id**: Identifier for the particular order.
+- **unit_price**: cost of each unit of a pizza.
+- **total_price**: Total cost of the pizzas(quantity*unit_price).
+- **Quantity**: Number of pizzas sold in each transaction.
+- **Pizza_category**: An identifier for the specific categories of pizza.
+- **Pizza_size**: An identifier for the specific sizes of pizza.
   
-The dataset is just a sample(dummy) dataset created manually for the purpose of this analysis.
+The dataset is just a sample(dummy) dataset created for the purpose of analysis and does not reflect the real sales of Pizza HUt.
 
 ## Data Analysis with SQL
 
@@ -122,7 +123,7 @@ To run this project, you'll need the following:
 
 ## Conclusion
 
-This project demonstrates the power of combining SQL and Power BI for analyzing business data. By leveraging SQL to clean and process large datasets and Power BI for visualization, we were able to uncover meaningful insights into Pizza Hut's sales performance. These insights can be helpful for business stakeholders to optimize product offerings, improve sales strategies, and enhance customer experiences.
+This project demonstrates the power of combining SQL and Power BI for analyzing business data. By leveraging SQL to clean and process large datasets and Power BI for visualization, we were able to uncover meaningful insights into Pizza Hut's sales performance. These insights will be helpful for Pizza Hut's stakeholders and decision makers to optimize product offerings, improve sales strategies, and enhance customer experiences which will help the business grow exponentially.
 
 ## Contributing
 
